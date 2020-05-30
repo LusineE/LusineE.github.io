@@ -94,10 +94,10 @@ h1{
     font-size: 18px;
 }
 .logos{
-    width: 413px;
+    width: 30%;
     height: 40%;
     margin-top: 43px;
-    margin-right: 20px;
+    margin-right: 2%;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
